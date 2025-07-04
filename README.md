@@ -49,25 +49,26 @@ The Personal Finance Management System is an application developed using Java Sw
 ## Screenshots
 
 ### Login
-![Login Page](images/login.png)
+
 
 ### Signup
-![Signup Page](images/signup.png)
+
 
 ### Home
-![Home Page](images/home.png)
+
 
 ### Accounts
-![Accounts Page](images/accounts.png)
+
 
 ### Income
-![Income Page](images/incomes.png)
+
 
 ### Expense
-![Expense Page](images/expenses.png)
+
 
 ### Budget
-![Budget Page](images/budget.png)
+![image](https://github.com/user-attachments/assets/921a1cf4-341a-41d1-88a2-efe00a3c95d7)
+
 
 ## Installation
 1. Clone the repository.
